@@ -2,4 +2,4 @@
 
 ## Demonstração
 
-![Demonstração da Calculadora de IMC](C:\Users\samar\Desktop\Projetos\IMC\img\demo.gif)
+![Demonstração da Calculadora de IMC](img/demo.gif)
